@@ -1,13 +1,15 @@
-#summary One-sentence summary of this page.
+#summary LENA - a Fresnel LEns based RDF/Linked Data NAvigator with SPARQL selector support.
 
 = Introduction =
 
-Add your content here.
+ LENA stands for LEns based NAvigator. A lens represents a particular view onto RDF data and is described by the Fresnel Display Vocabulary. LENA enables viewing RDF data in your web browser, rendered according to the lens descriptions you provide. LENA supports the use of multiple lenses and indicates if they are available for a resource, so that a different view onto the same data is always just one click away!
 
+To write lenses for complex RDF structures created through sophisticated ontology frameworks like COMM or X-COSIM, LENA supports SPARQL selectors. As comprehensive query language for RDF, SPARQL complies to the requirements needed to select from these complex structured RDF graphs. While a Fresnel SPARQL selector is a designated Fresnel selector an implementation did not yet exist. LENA provides an extension to support Fresnel SPARQL selectors that is now integrated into the Simile Fresnel engine.
 
-= Details =
+The data which shall be processed by LENA, can either be put into the provided directory or be accessed through a Sesame HTTP repository. Furthermore linked data can be browsed by entering a dereferenceable URI. For more information about the usage of LENA see the FAQ. 
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+= Demo =
+= Download =
+= News =
+= Links =
+= FAQ =

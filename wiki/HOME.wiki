@@ -23,29 +23,35 @@ You need to deploy the .war into a servlet container, e.g. [http://tomcat.apache
 We recomment using version 5.5.x or 6.x.
 
 = News =
-
 ==LENA 1.1.0==
 _03.09.2008_
 
 LENA is back in development featuring the new version 1.1.0. This version enables LENA to browse linked data, futhermore it adds pages support. Updated to Sesame 2.1.3.
-
 ----
 ==LENA 1.0.2==
 14.11.2007
 
 Update to Sesama 2.0 beta 6. Demo server traffic restrictions removed.
-
 ----
 ==LENA 1.0.1==
 09.10.2007
 
 LENA home page shortened. Abbreviation of property labels and property values (resources only) that have not been specified else by the Fresnel configuration.
-
 ----
 ==LENA 1.0.0 Release==
 30.09.2007
 
 First official version release of LENA.
+----
 
 = Links =
+
+[http://linkeddata.org/" Linked data info page]
+[http://www.w3.org/2005/04/fresnel-info/ Official Fresnel page]
+[http://www.w3.org/2005/04/fresnel-info/manual/ Fresnel user manual - learn more about how to write Fresnel Lenses.]
+[http://simile.mit.edu/wiki/Fresnel SIMILE Fresnel engine]
+[http://www.w3.org/TR/rdf-sparql-query/ SPARQL]
+[http://www.openrdf.org/ openRDF.org - Sesame]
+[http://www.uni-koblenz.de/FB4/Localizer/changeLanguage?lang=en&goto=http://www.uni-koblenz.de/FB4/Institutes/IFI/AGStaab/index_html Research Group ISWeb - Information Systems and Semantic Web, University of Koblenz-Landau]
+
 = FAQ =

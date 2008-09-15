@@ -24,9 +24,8 @@ We recomment using version 5.5.x or 6.x.
 
 = News =
 
-----
 LENA 1.1.0
-_03.09.2008_
+======_03.09.2008_======
 
 LENA is back in development featuring the new version 1.1.0. This version enables LENA to browse linked data, futhermore it adds pages support. Updated to Sesame 2.1.3.
 

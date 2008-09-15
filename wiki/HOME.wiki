@@ -12,7 +12,5 @@ The data which shall be processed by LENA, can either be put into the provided d
 
 [http://dom.uni-koblenz.de:8080/lena View The Demo!]
 
-= Download =
-= News =
 = Links =
 = FAQ =

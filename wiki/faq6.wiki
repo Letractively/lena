@@ -11,5 +11,7 @@ Properties can be selected by a CONSTRUCT query. As properties are selected for 
 For not adding prefixes to every SPARQL selector, prefixes are added once by a namespace vocabulary:
 
 {{{@prefix fslns: <http://simile.mit.edu/2006/01/ontologies/fsl-ns#> .}}}
+
 {{{<http://example.org/> a fslns:Namespace ;}}}
+
 {{{fslns:abbreviated 'ex' .}}}

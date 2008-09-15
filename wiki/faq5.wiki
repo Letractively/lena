@@ -1,14 +1,14 @@
 This icon represents a link to the resource next to it...
 
-link_go.png"
+link_go.png
 
 ...maintaining the lens that is currently used.
 
-lens_icon.png"
+lens_icon.png
 
 ...using another lens that is available. Furthermore it indicates that lenses are available for certain instances of a class in the _Included Classes_ sidebar.
 
-rdf_flyer.24.gif"
+rdf_flyer.24.gif
 
 ...using the default lens.
 

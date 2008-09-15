@@ -1,1 +1,3 @@
 All files are put into the subdirectories of {{{/WEB-INF/classes/}}}. The fresnel configuration belongs into the {{{fresnel.n3}}} file in the {{{configurations}}} directory, the data files into the {{{data}}} directory and the ontology files into the {{{ontologies}}} directory. You can also [faq3 use a Sesame (2.1.3) HTTP repository] for your data!
+
+Furthermore you can browse [http://linkeddata.org/ linked data] by querying dereferenceable URIs with the provided form on the "HOME"-page and by the semantic web logo icon. Some example links are presented on the "HOME"-page as well.

@@ -9,6 +9,9 @@ To write lenses for complex RDF structures created through sophisticated ontolog
 The data which shall be processed by LENA, can either be put into the provided directory or be accessed through a [http://www.openrdf.org/ Sesame] HTTP repository. Furthermore linked data can be browsed by entering a dereferenceable URI. For more information about the usage of LENA see the FAQ.
 
 = Demo =
+
+[http://dom.uni-koblenz.de:8080/lena View The Demo!]
+
 = Download =
 = News =
 = Links =

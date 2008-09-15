@@ -62,7 +62,7 @@ First official version release of LENA.
 
 = FAQ =
 
- * Getting started!
+ * [faq1 Getting started!]
  * Where do I put my data?
  * How can I use a HTTP Repository?
  * How to browse?

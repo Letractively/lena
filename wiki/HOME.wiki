@@ -10,7 +10,7 @@ We recomment using version 5.5.x or 6.x.
 
 = Links =
 
- * [http://linkeddata.org/" Linked data info page]
+ * [http://linkeddata.org/ Linked data info page]
  * [http://www.w3.org/2005/04/fresnel-info/ Official Fresnel page]
  * [http://www.w3.org/2005/04/fresnel-info/manual/ Fresnel user manual - learn more about how to write Fresnel Lenses.]
  * [http://simile.mit.edu/wiki/Fresnel SIMILE Fresnel engine]

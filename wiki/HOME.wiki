@@ -12,28 +12,6 @@ You need to deploy the .war into a servlet container, e.g. [http://tomcat.apache
 
 We recomment using version 5.5.x or 6.x.
 
-= News =
-==LENA 1.1.0==
-_03.09.2008_
-
-LENA is back in development featuring the new version 1.1.0. This version enables LENA to browse linked data, futhermore it adds pages support. Updated to Sesame 2.1.3.
-----
-==LENA 1.0.2==
-14.11.2007
-
-Update to Sesama 2.0 beta 6. Demo server traffic restrictions removed.
-----
-==LENA 1.0.1==
-09.10.2007
-
-LENA home page shortened. Abbreviation of property labels and property values (resources only) that have not been specified else by the Fresnel configuration.
-----
-==LENA 1.0.0 Release==
-30.09.2007
-
-First official version release of LENA.
-----
-
 = Links =
 
 [http://linkeddata.org/" Linked data info page]

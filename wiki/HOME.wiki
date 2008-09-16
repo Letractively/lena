@@ -63,9 +63,9 @@ First official version release of LENA.
 = FAQ =
 
  * [faq1 Getting started!]
- * Where do I put my data?
- * How can I use a HTTP Repository?
- * How to browse?
- * What do the icons mean?
- * How can I use SPARQL as selector?
- * How to link to LENA?
+ * [faq2 Where do I put my data?]
+ * [faq3 How can I use a HTTP Repository?]
+ * [faq4 How to browse?]
+ * [faq5 What do the icons mean?]
+ * [faq6 How can I use SPARQL as selector?]
+ * [faq7 How to link to LENA?]

@@ -1,5 +1,5 @@
  * Download the .war file [http://code.google.com/p/lena/downloads/list here]
  * Deploy it into a servlet container, e.g. [http://tomcat.apache.org/ Apache Tomcat]
- * Run your webserver and point your browser to the application URL, e.g. 'http://localhost:8080/lena-1.1.0'.
+ * Run your webserver and point your browser to the application URL, e.g. 'http://localhost:8080/lena-1.1.1'.
  * [faq2 Add your data]
  * Reload LENA with e.g. the tomcat manager.

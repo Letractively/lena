@@ -14,19 +14,13 @@ We recomment using version 5.5.x or 6.x.
 
 = Links =
 
-[http://linkeddata.org/" Linked data info page]
-
-[http://www.w3.org/2005/04/fresnel-info/ Official Fresnel page]
-
-[http://www.w3.org/2005/04/fresnel-info/manual/ Fresnel user manual - learn more about how to write Fresnel Lenses.]
-
-[http://simile.mit.edu/wiki/Fresnel SIMILE Fresnel engine]
-
-[http://www.w3.org/TR/rdf-sparql-query/ SPARQL]
-
-[http://www.openrdf.org/ openRDF.org - Sesame]
-
-[http://www.uni-koblenz.de/FB4/Localizer/changeLanguage?lang=en&goto=http://www.uni-koblenz.de/FB4/Institutes/IFI/AGStaab/index_html Research Group ISWeb - Information Systems and Semantic Web, University of Koblenz-Landau]
+ * [http://linkeddata.org/" Linked data info page]
+ * [http://www.w3.org/2005/04/fresnel-info/ Official Fresnel page]
+ * [http://www.w3.org/2005/04/fresnel-info/manual/ Fresnel user manual - learn more about how to write Fresnel Lenses.]
+ * [http://simile.mit.edu/wiki/Fresnel SIMILE Fresnel engine]
+ * [http://www.w3.org/TR/rdf-sparql-query/ SPARQL]
+ * [http://www.openrdf.org/ openRDF.org - Sesame]
+ * [http://www.uni-koblenz.de/FB4/Localizer/changeLanguage?lang=en&goto=http://www.uni-koblenz.de/FB4/Institutes/IFI/AGStaab/index_html Research Group ISWeb - Information Systems and Semantic Web, University of Koblenz-Landau]
 
 = FAQ =
 

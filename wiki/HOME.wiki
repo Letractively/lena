@@ -6,7 +6,7 @@ The browser is available as a WAR file and can be downloaded here:
 
 You need to deploy the .war into a servlet container, e.g. [http://tomcat.apache.org/ Apache Tomcat].
 
-We recomment using version 5.5.x or 6.x.
+We recommend using version 5.5.x or 6.x.
 
 = Links =
 

@@ -1,7 +1,5 @@
 #summary LENA2 Start Page
 
-= Introduction =
-
 LENA2 is the new version
 that includes a TripleRank implementation.
 

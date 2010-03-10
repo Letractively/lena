@@ -3,7 +3,7 @@
 
  * You find the current developments on Lena 1.x in the trunk
 
- * See [lena2 here] for working on LENA2
+ * See [LENA2 here] for working on LENA2
 
 = Download And Installation Lena 1.x =
 

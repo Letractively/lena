@@ -1,0 +1,14 @@
+#summary LENA2 Start Page
+
+= Introduction =
+
+LENA2 is the new version
+that includes a TripleRank implementation.
+
+Its source code is available from branches/lena2-tr.
+
+It includes all required files and a .project file
+for importing it to eclipse.
+
+Please note that it requires a valid Matlab configuration
+to run properly!

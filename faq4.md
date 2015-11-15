@@ -1,0 +1,3 @@
+There are two possibilities to browse. The one is to select a lens defined in a configuration file via the 'Lenses' sidebar, the other allows you to browse via a default lens, where starting points are the in the data included classes listed in the 'Remote Classes' and 'Local Classes' sidebar. When following a class link, all instances of this class are displayed.
+
+The default lens shows statements for a resource, where the resource is subject (marked green) of the statement, and where the resource is object of the statement (marked red).
